@@ -41,4 +41,5 @@ int main(int argc, char **argv)
 
     free( ii );
     close( sock );
-    
+    return 0;
+}
